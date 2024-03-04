@@ -20,7 +20,7 @@ Packages and libraries required:
 
 ### Data
 
-The dataset used in this study was sourced from a Chinese website[2], which provided an article containing approximately 500 animal names written in Chinese characters.
+The dataset used in this study (animals_ch.txt) was sourced from a Chinese website[2], which provided an article containing approximately 500 animal names written in Chinese characters.
 
 ***
 
