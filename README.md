@@ -1,5 +1,5 @@
 # Exercise2
-Code repository for Exercise2 of NLP class, Master's in Theoretical and Applied Linguistics, Pompeu Fabra University.
+Code repository for Exercise 2 of NLP class, Master's in Theoretical and Applied Linguistics, Pompeu Fabra University.
 Code created by Alba Prados Moya and Yutong Zhang.
 
 *** 
