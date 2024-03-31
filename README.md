@@ -4,18 +4,16 @@ Code created by Alba Prados Moya and Yutong Zhang.
 
 *** 
 ### Exercise goal
-In this study, we aimed to develop a character-based model capable of generating animal names in Chinese, adapting code from Andrej Karpathy’s lecture course[1]. This involved adjusting the original code, to effectively process Chinese characters and enhance the training process for better-quality outputs.
+This assignment draws from a section of my Master’s Thesis, which focuses on analyzing findings from a preceding research paper on the EsCoLA: Spanish Corpus of Linguistic Acceptability[1] . My primary aim is to investigate whether the model's efficacy correlates with either word frequency or task complexity. Specifically, I've addressed the initial aspect of my thesis by developing a coding program to explore the association between word frequency within EsCoLA corpus sentences and the model's performance. This investigation aims to ascertain whether the model exhibits superior performance with sentences containing more common words, less common words, or if there's no discernible impact.
 
 *** 
 ### Requirements
 The code is written in python 3
 
 Packages and libraries required:
-  * torch
-  * torch.nn.functional
-  * matplotlib.pyplot
-  * random
-  
+  * pandas
+  * re
+   
 ***
 
 ### Data
